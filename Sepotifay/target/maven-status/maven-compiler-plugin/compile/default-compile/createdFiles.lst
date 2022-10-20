@@ -1,0 +1,11 @@
+com\mandiri\JpaSepotifayApplication.class
+com\mandiri\dto\ArtistsSearchCriteria.class
+com\mandiri\service\CRUDService.class
+com\mandiri\dto\CustomPage.class
+com\mandiri\service\ArtistsService.class
+com\mandiri\entity\Artists.class
+com\mandiri\repository\ArtistRepo.class
+com\mandiri\spesification\ProductSpecification$1.class
+com\mandiri\controller\ArtistsController.class
+com\mandiri\config\ResponseMessage.class
+com\mandiri\spesification\ProductSpecification.class
